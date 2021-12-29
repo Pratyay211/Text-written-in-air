@@ -5,8 +5,9 @@ This project aims to deliver a real-time video-based pointing method that allows
 # Output
 ![Output avi gif](https://github.com/Pratyay211/Text-written-in-air/blob/main/M.gif)
 
-## Paper 
-![Paper](https://github.com/Pratyay211/Text-written-in-air/blob/main/Text%20generated%20in%20air.pdf)
+## References
+***Main:***
+- Paper: https://github.com/Pratyay211/Text-written-in-air/blob/main/Text%20generated%20in%20air.pdf
 
 ### Contacts:
 * **Created by:[Pratyay Kumar](https://github.com/Pratyay211)**
