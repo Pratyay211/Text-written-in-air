@@ -2,6 +2,11 @@
 
 This project aims to deliver a real-time video-based pointing method that allows the sketching and writing of english text over the air in front of a camera. The proposed method has two main tasks. First, to track the fingertip in the video frame, and second, to apply character segmentation and recognition over segmented images to recognize the written characters. The proposed method is a software-based approach, a departure from almost all the existing finger-tracking-based text recognition systems, which require extra hardware. Furthermore, previous approaches carry out comparisons to recognize the input, whereas, in the proposed system, machine learning is applied for text recognition, considerably reducing the computational time. 
 
+# To Run the Project
+
+1. cd Text-written-in-air/src
+2. python newgesture.py 
+
 # Output
 ![Output avi gif](https://github.com/Pratyay211/Text-written-in-air/blob/main/M.gif)
 
